@@ -47,6 +47,9 @@ We go beyond basic models:
 ## Dashboard Preview
 
 
+<img width="1895" height="903" alt="Screenshot 2025-11-14 at 2 01 30 PM (2)" src="https://github.com/user-attachments/assets/08ba7a6a-2334-47d2-8766-8bf3338d7133" />
+
+
 
 - **Left**: Sentiment % (Pie Chart)  
 - **Right**: Daily Net Sentiment (Line Chart)  
